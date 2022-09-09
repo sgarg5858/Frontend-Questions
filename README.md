@@ -6,7 +6,9 @@ JavaScript Problems:
 
 https://www.youtube.com/watch?v=Mip6ejPRXko&list=PLe3J6mZBq1xUWVBMpSR2zpp8paWMJQ91b&index=1
 
-2. DOM Finder
+2. DOM Finder (IMP)
+
+https://www.youtube.com/watch?v=YiQfPU8qB_c&list=PLe3J6mZBq1xUWVBMpSR2zpp8paWMJQ91b&index=2
 
 ****************************************************************************************************************
 
