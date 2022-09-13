@@ -28,12 +28,15 @@ https://www.youtube.com/watch?v=YiQfPU8qB_c&list=PLe3J6mZBq1xUWVBMpSR2zpp8paWMJQ
 
 11. Attach a event listener which gets triggered when item is pushed!
 
+12. Write a function for deepEquals, deepCopy with Property Descriptors maintained
 
 ****************************************************************************************************************
 
 Machine Coding Problems:
 
 1. Implmement Typeahead
+
+https://www.youtube.com/watch?v=IKRbWT6LqIY&list=PL4CFloQ4GGWJKu24kuizRUj9KiSO216Bj&index=8
 
 2. Implement Progress Bar
 
