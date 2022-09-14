@@ -52,6 +52,9 @@ https://www.edrawmind.com/online/map.html?sharecode=632181e385b0c9a15320064
 
 https://www.youtube.com/watch?v=ai1zmNO5Z3E&t=43s
 
+API END POINTS:
+https://www.algoexpert.io/api/fe/questions
+https://www.algoexpert.io/api/fe/submissions
 
 
 ****************************************************************************************************************
