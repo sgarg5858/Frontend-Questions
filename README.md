@@ -37,6 +37,7 @@ Machine Coding Problems:
 1. Implmement Typeahead
 
 https://www.youtube.com/watch?v=IKRbWT6LqIY&list=PL4CFloQ4GGWJKu24kuizRUj9KiSO216Bj&index=8
+https://github.com/sgarg5858/Frontend-Questions/blob/main/autocomplete.ts
 https://www.edrawmind.com/online/map.html?sharecode=632181e385b0c9a15320064
 
 2. Implement Progress Bar
