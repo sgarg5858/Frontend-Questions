@@ -42,6 +42,14 @@ https://github.com/sgarg5858/Frontend-Questions/blob/main/autocomplete.ts
 
 https://www.edrawmind.com/online/map.html?sharecode=632181e385b0c9a15320064
 
+Implementation: 
+
+html: https://gist.github.com/sgarg5858/7607903141db1716c9c00b38c5ddf245
+
+css: https://gist.github.com/sgarg5858/6d2caf1d8d142d69261f66ea01f648c0
+
+ts:  https://gist.github.com/sgarg5858/bfb6d532dc5c8cc7c05fabd9dc4f756b
+
 2. Implement Progress Bar
 
 3. Implement Star Rating
@@ -55,6 +63,10 @@ https://www.youtube.com/watch?v=ai1zmNO5Z3E&t=43s
 API END POINTS:
 https://www.algoexpert.io/api/fe/questions
 https://www.algoexpert.io/api/fe/submissions
+Solution
+index.html: https://gist.github.com/sgarg5858/e32387adfdbf09d6c75812755272a937
+styles.css: https://gist.github.com/sgarg5858/d3759f47138c126cca1f4dc3fda6fb5a
+script.ts: https://gist.github.com/sgarg5858/2799b4c975bd276ee93d16a517b88a33
 
 
 ****************************************************************************************************************
