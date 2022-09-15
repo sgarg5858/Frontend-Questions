@@ -52,7 +52,11 @@ ts:  https://gist.github.com/sgarg5858/bfb6d532dc5c8cc7c05fabd9dc4f756b
 
 2. Implement Progress Bar
 
+https://github.com/sgarg5858/The-Dom-Challange/tree/main/progress-bar
+
 3. Implement Star Rating
+
+https://github.com/sgarg5858/The-Dom-Challange/tree/main/star-rating
 
 4. Implement Calendar
 
