@@ -56,7 +56,9 @@ ts:  https://gist.github.com/sgarg5858/bfb6d532dc5c8cc7c05fabd9dc4f756b
 
 4. Implement Calendar
 
-5. Frontend Expert
+5. Implement Image Carousel
+
+6. Frontend Expert
 
 https://www.youtube.com/watch?v=ai1zmNO5Z3E&t=43s
 
